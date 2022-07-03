@@ -16,4 +16,5 @@ div.title > h1{
 
 .container{
     background: plum;
+    -webkit-print-color-adjust: exact;
 }
