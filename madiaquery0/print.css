@@ -2,3 +2,12 @@ div.title > h1{
     color: green;
 
 }
+
+@page  {
+    size: auto;
+    margin: .5em;
+}
+
+body{
+    margin: 0;
+}
