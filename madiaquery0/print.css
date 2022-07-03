@@ -3,6 +3,7 @@ div.title > h1{
 
 }
 
+/* per togliere pie di pagina*/
 @page  {
     size: auto;
     margin: .5em;
