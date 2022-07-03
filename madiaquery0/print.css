@@ -10,11 +10,11 @@ body{
 
 /* regole del testo scitto per stampare */
 div.title > h1{
-    color: green;
+    color: plum;
 
 }
 
 .container{
     background: linear-gradient(darkslateblue, aqua);
-    -webkit-print-color-adjust: exact;
+    -webkit-print-color-adjust: exact; /*regola ereditaria */
 }
