@@ -15,6 +15,6 @@ div.title > h1{
 }
 
 .container{
-    background: linear-gradient(darkslateblue, aqua);
+    background: linear-gradient( 20deg, darkslateblue, aqua);
     -webkit-print-color-adjust: exact; /*regola ereditaria */
 }
