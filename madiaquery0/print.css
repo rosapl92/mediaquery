@@ -1,7 +1,7 @@
 /* per togliere pie di pagina*/
 @page  {
     size: auto;
-    margin: .5em;
+    margin: 5mm;
 }
 
 body{
@@ -15,6 +15,6 @@ div.title > h1{
 }
 
 .container{
-    background: plum;
+    background: linear-gradient(darkslateblue, aqua);
     -webkit-print-color-adjust: exact;
 }
